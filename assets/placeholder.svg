@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffe8ef"/>
+      <stop offset="100%" stop-color="#f6c8d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <g fill="#8d3f56" opacity="0.75" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="430" font-size="54">Tempat Foto Kenangan</text>
+    <text x="600" y="500" font-size="34">Ganti file ini dengan foto kalian</text>
+  </g>
+</svg>
